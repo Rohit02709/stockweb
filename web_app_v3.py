@@ -1,4 +1,3 @@
-#import required libraries
 import streamlit as st
 import yfinance as yf
 from datetime import datetime
